@@ -27,3 +27,20 @@ https://github.com/user-attachments/assets/9c899540-1f0d-443a-b29a-c78b2a400c7e
 -  입력으로 주어진 음성은 pre-trained audio encoder를 통과한 후, cross attention에 반영됨
 -  발화자, 감정, diffusion timestep 정보는 embedding을 거친 후, attention의 key와 value 값으로 들어감
 -  GT animation(blendshape weight)에 대한 reconstruction loss와 함께 jittering을 줄이고자 velocity loss 사용
+
+
+## Emotional face animation
+
+
+
+## 간투어
+
+## multi-language
+
+## facial expression diversity
+
+## emotion intensity control
+
+## mouth size control
+
+## emotion change by time
